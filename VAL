@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Valentine's Day</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(to right, #7b5dbd, #9c7fcf);
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: rgba(255, 255, 255, 0.2);
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            font-size: 36px;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+            text-align: left;
+        }
+        .heart {
+            font-size: 50px;
+            animation: pulse 1.5s infinite;
+        }
+        @keyframes pulse {
+            0% { transform: scale(1); }
+            50% { transform: scale(1.1); }
+            100% { transform: scale(1); }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Happy Valentine's Day, Dami! ❤️</h1>
+        <p>
+            Hi Dami,<br><br>
+            Happy Valentine’s Day to you.<br><br>
+            I remember last year’s Valentine’s Day—I wrote some things on the gadgets I dropped off for you. Most of the words were harsh, but yeah, I wanted you to sit up. I know you kept them. Sometimes, when I come to your place, I wanted to throw them away, but I just left them.<br><br>
+            This year, I don’t think much has changed. We are still stuck in the same routine. Sometimes I wonder, is it my personality? Or is it me wanting to be heard clearly and understood? Even if it’s not instantaneous, it can happen over time.<br><br>
+            I try my best to be clear at least 90% of the time, and for the remaining 10%, when I’m speaking in parables, over time, you pick up attributes of your partner—whether good or bad. But it’s left for you to pick the good ones and leave the bad ones, even if you’re picking them up unconsciously. That’s where self-reflection comes in.<br><br>
+            I always check up on you, asking how your night was. But do you ask me back? I crave that. When was the last time you told me you love me out of the blue? Do you think you’re the only one who craves reassurance?<br><br>
+            When it comes to asking after someone, you’ve failed terribly in that aspect. If I’m going somewhere, I owe it to you to let you know. I know you’re not me, but can you at least try? If I don’t tell you something and you find out later, you take offense. But you can tell me anything at your own pace. Is that fair?<br><br>
+            This January, I saw a side of you I had never seen before—questioning my church-going, following up if there were programs. It just showed a lack of trust. Or is there something I did to you that you aren’t saying? I ask myself that question many times. What did I do to you? My statements and remarks are always misunderstood on the spot.<br><br>
+            You say I don’t understand you. I understand what you communicate to me, but the real question is, do you understand yourself? Maybe I’m overly affectionate, and everything that concerns you is my concern. My long texts, me constantly asking if there’s an issue—sometimes I feel like I’m the only one trying.<br><br>
+            A simple statement like “You don’t check up on me” turns into a huge conversation. I even had to invoke our best friend to explain things. Sometimes, I replay our chats through AI to break things down for you. You think I’m looking down on you, but I’m not—I just want you to see things from a third-person perspective.<br><br>
+            Let’s go back to the hospital incident when you missed your period. I suggested a general hospital, but you were set on going somewhere else—until someone else told you the same thing I did. Your excuse was that I didn’t say it with love. That day, I went back to our conversation and cried inside. I had spoken with concern and love, yet you didn’t listen to me.<br><br>
+            What if the medication had gone wrong? It would have been a case of “Had I known.” At every point in my life, I have never allowed regret. The only thing I have over you is age. Everything else is relative. But that age comes with experience. I’ve shown you where I grew up, and you wouldn’t believe it because I don’t act like someone from there. It’s a conscious effort.<br><br>
+            Most times, when you leave me to myself, do you ever think about how I’m coping? You have days filled with talking to clients or colleagues, but I’m alone. No matter what happens, I always reach out—not for myself, but for peace. It’s my white flag.<br><br>
+            Or should we talk about the way you speak to me? I don’t want to believe it’s a cultural thing, because I’ve dated others from your background, and they don’t respond to me as rudely as you do. I’m often in awe—what would warrant you speaking to someone you love that way?<br><br>
+            I’ve asked myself many times—who am I to you? Because I don’t know. You always say I want sex, that if there’s sex, I’m good, and if it’s absent, it brings issues. Is that really fair? Do you think I can’t get that anywhere else? I’ve been trying to stay faithful, and you think it’s just one year. But it’s been the best year of my life. You can’t imagine how hard it is sometimes.<br><br>
+            This is the only Valentine’s Day that I’m not eager to share with you. It feels more like a gift exchange than a celebration. Even last year, when we had a fight, I was excited. But this year, as I write this on February 8th, maybe something will change by the 14th. But as of today, this is how I feel.<br><br>
+            There are so many things I want to say, but I’ll stop here because this has already changed the course of the day—Valentine’s Day should be about love.<br><br>
+            If I’m the issue, let me know. But know this—I will never stop being me. The me who checks up, who shares my movements, who avoids saying things to keep the peace. I’ll continue doing what’s right and drop what’s wrong. Any negative energy I receive, I’ll find a way to let go so it doesn’t give me sleepless nights.<br><br>
+            They say, “The shoulder to cry on is a dick to ride on.” It works both ways. If I keep crying and complaining to one person, one day, someone else will step in. At some point, one gets tired.<br><br>
+            My guards are up, and I’m not willing to let them down anytime soon. But know this—love isn’t enough.<br><br>
+            I love you so much. I can’t deny it anywhere. What I have for you is as real as it gets. Don’t let these two years be for nothing.<br><br>
+            Much Love,<br>
+            David
+        </p>
+        <div class="heart">❤️</div>
+    </div>
+</body>
+</html>
